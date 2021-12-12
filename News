@@ -55,6 +55,9 @@ http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_07.png" group-title="台灣电视台" tvg-id="" tvg-name="", 民視旅遊台
 http://seb.sason.top/ptv/ftv.php?id=ly
 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="Korea/Japan" tvg-id="331", NHK国际频道
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
 
 
 #EXTM3U
