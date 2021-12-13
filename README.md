@@ -24,11 +24,15 @@ A big obstacles encounter was in setting up of the telegram bot like identifying
 
 2)Then under "Actions" , set up a new workflow folder named "notifier.yml" 
 
-3)Next click on Telegram Bot Father https://t.me/botfather to create a personal telegram Bot as well as to get the Bot token.
+3)Paste or write codes into the folder "notifier.yml"
 
-4)Inside the terminal, type "curl https://api.telegram.org/bot"bottoken"/getUpdates" to obtain the Bot chat ID.
+4)Next click on Telegram Bot Father https://t.me/botfather to create a personal telegram Bot as well as to get the Bot token.
 
-5)Having obtain the token and ID, go under "settings" and then "SECRETS", "ACTIONS" and then create a "NEW REPOSITORY SECRET" for the token and chat ID.
+5)Inside the terminal, type "curl https://api.telegram.org/bot"bottoken"/getUpdates" to obtain the Bot chat ID.
+
+6)Having obtain the token and ID, go under "settings" and then "SECRETS", "ACTIONS" and then create a "NEW REPOSITORY SECRET" for the token and chat ID.
+
+7)Done, now user's telegram will receive message whenever there is a update.
 
 
 
