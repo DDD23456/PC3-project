@@ -1,6 +1,6 @@
 # PC3-project
 
-#Summary
+## Summary
 
 Created a NEWS Folder in which live TV links in m3u8 format are stored.
 
@@ -13,12 +13,12 @@ Setup a telegram notification alert through using a telegram bot.
 Any new update will generate a message through telegram alert to the user's phone.
 
 
-#Problems
+## Problems
 
 A big obstacles encounter was in setting up of the telegram bot like identifying the correct robot chat ID. Needs patience and lots of trial and error.
 
 
-#Steps in creating the notification system using telegram
+## Steps in creating the notification system using telegram
 
 1)Create a new repository and 
 
