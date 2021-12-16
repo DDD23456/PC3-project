@@ -4,9 +4,11 @@
 
 Created a NEWS Folder in which live TV links in m3u8 format are stored.
 
-A VLC player is required to play the m3u8 files. Just need to copy the raw url files from the NEWS Folder and paste into the vido player.
+A m3u8 player (eg VLC Player) is required to play the m3u8 files. Just need to copy the raw url files from the NEWS Folder and paste into the video player.
 
 The m3u8 links needs updating once it is not working.
+
+After links are updated, the user is notified through the telegram.
 
 Setup a telegram notification alert through using a telegram bot.
 
